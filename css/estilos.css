@@ -57,3 +57,7 @@ main{
    align-items: center;
    justify-content: space-between;
 }
+main.main-conted{
+   display: flex;
+   flex-direction: column;
+}
